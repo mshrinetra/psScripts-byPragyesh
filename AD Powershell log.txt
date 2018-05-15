@@ -1,0 +1,182 @@
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Pragyesh Kumar"} -ErrorAction Stop |  Set-ADUser –scriptPath “\\San01\test.bat” 
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:380 char:29
++ $ResetButtonLog = "Reset by " + $env:username
++                             ~~~~~~~~~~~~~~~~~
+The string is missing the terminator: ".
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:304 char:31
++ foreach ($server in $servers) {
++                               ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:297 char:4
++ try{
++    ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:410 char:30
++ $Form.ShowDialog() | out-null
++                              ~
+The Try statement is missing its Catch or Finally block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:294 char:1
++ {
++ ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:410 char:30
++ $Form.ShowDialog() | out-null
++                              ~
+Missing ')' in method call.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:381 char:29
++ $ResetButtonLog = "Reset by " + $env:username
++                             ~~~~~~~~~~~~~~~~~
+The string is missing the terminator: ".
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:304 char:31
++ foreach ($server in $servers) {
++                               ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:297 char:4
++ try{
++    ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:411 char:30
++ $Form.ShowDialog() | out-null
++                              ~
+The Try statement is missing its Catch or Finally block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:294 char:1
++ {
++ ~
+Missing closing '}' in statement block.
+At C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1:411 char:30
++ $Form.ShowDialog() | out-null
++                              ~
+Missing ')' in method call.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
+ 
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Vanessa Rebscher"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 - - DEUTS DEFRA-S-029056” 
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Lothar Fritsch"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEATG DEFRA-S-029056” 
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Miroslava Andrasyova"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Alexander Kober"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Miroslava Andrasyova"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Alexander Kober"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Miroslava Andrasyova"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Alexander Kober"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028733-Cs DE-S-0154803 DEPUC DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Rainer R. Hofmann"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028741-Marketing DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Olga Dudnik"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028741-Marketing DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Gero Lustig"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028741-Marketing DEFRA-S-029056 DEATG DE-S-0117791” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Lidia Pamel"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028741-Marketing DEFRA-S-029056 DESTO DE-S-0154797” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Frank Schneider"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028798-SALES_A DE-S-0178472 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Christopher Brandl"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEABB DE-S-0117794” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Timo Gegenheimer"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEABB DE-S-0164365” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Henrik Heinemann"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Nicole Knoll"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Simone Foerster"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Kathrin Bednorz"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028802-Control DEFRA-S-029056 DEATG DE-S-0117791” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Werner Veigel"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028880-Dokument DE-S-0183727 DEAPR DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Erich Baums"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028880-Dokument DE-S-0183727 DEAPR DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Erich Baums"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG028880-Dokument DE-S-0183727 DEAPR DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Andrea Rehder"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG035866-CONANA DEFRA-S-029056 DEATG DE-S-0164369” 
+
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Nada Jans"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG040129-BR_FFm_P DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Guenter Proschinger"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG048178-AOSYSTEM DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Simone Thiel"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG048178-AOSYSTEM DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Paul Capek"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG048178-AOSYSTEM DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Patrick Benuar"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG048178-AOSYSTEM DEFRA-S-029056 DEATG DEFRA-S-029056”
+
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Andreas Klammes"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG048178-AOSYSTEM DEFRA-S-029056 DEATG DEFRA-S-029056”
+
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Melinda Doerrschuck"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG058704-orderprocessing DEFRA-S-029056 DEATG DEFRA-S-029056” 
+
+
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Lisa Vrba"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG092361-Export DEFRA-S-029056 DEATG DE-S-0117791” 
+
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Laura Elsen"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG092361-Export DEFRA-S-029056 DEATG DE-S-0117791” 
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Nele Sternkopf"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG092361-Export DEFRA-S-029056 DEATG DE-S-0117791” 
+
+Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Tanja Hartmann"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG092361-Export DEFRA-S-029056 DEATG DE-S-0117791” 
+
+
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Katja Aedtner"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG126406-Kaufm_Vertrieb DE-S-0117791 DEATG DEFRA-S-029056” 
+
+
+
+
+
+
+PS C:\Windows\system32> C:\Users\xw-admin-pk8\Desktop\XWPRKUM\Bulk_GetUsersSID_V1.0.ps1
+
+PS C:\Windows\system32> Get-ADUser -Server "Europe.abb.com" -Filter { Name -eq "Brigitte Tuettenberg"} -ErrorAction Stop |  Set-ADUser –scriptPath “DE\COMMON.BAT DE-S-0183726 $DEG192804-OPEX-IMS_APR_I DE-S-0183727 DEATG DEFRA-S-029056” 
+
+
+
+
+
+
+PS C:\Windows\system32> 
